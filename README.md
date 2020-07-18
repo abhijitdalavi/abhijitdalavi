@@ -1,15 +1,28 @@
-
-<h1 align="center">Hi 👋, I'm Abhijit Dalavi 🕵️<br> <h>(A Passionate AI Developer) </h1>
-
+<h1 align="center">Hi 👋, I'm Abhijit Dalavi 🕵️<br> <h>(A Passionate AI Developer)</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijitdalavi" alt="blurred-machine" /> </p>
 
 [![Github](https://img.shields.io/github/followers/abhijitdalavi?label=Follow&style=social)](https://github.com/abhijitdalavi)
-[![Linkedin](https://img.shields.io/badge/-Abhijit%20Dalavi-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/abhijitdalavi/)](https://www.linkedin.com/in/abhijitdalavi/)
-[![Mail](https://img.shields.io/badge/-Mail%20Me-blue?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:abhijitdalavi@gmail.com)
 [Click to Chat](https://wa.link/in1rm4)
+
+<a href="https://www.linkedin.com/in/abhijitdalavi/">
+<img align="left" alt="Abhijit Dalavi | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+</a>
+<a href="https://twitter.com/abhijitdalavi">
+<img align="left" alt="Abhijit Dalavi | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+</a>
+<a href="https://www.instagram.com/abhijitdalavi/">
+<img align="left" alt="Abhijit Dalavi | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+</a>
+<a href="mailto:abhijitdalavi@gmail.com">
+<img align="left" alt="Abhijit Dalavi | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+</a>
+<a href="https://wa.link/in1rm4">
+<img align="left" alt="Abhijit Dalavi | Gmail" width="26px" src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/whatsapp.svg" />
+</a>
 
 
 ## About me
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 I'm a Data Science practitioner and computer programmer with an avid interest in Natural Language Processing and traditional Machine Learning. As a core programmer, I love taking challenges and love being part of the solution.
 
