@@ -88,9 +88,6 @@ When in times of leisure, I like to read books in the genre of mystery thriller,
  ---
 
 
-### Interesting stats
-
-![Abhi stats](https://github-readme-stats.vercel.app/api?username=abhijitdalavi&show_icons=true)
 
 
 >
