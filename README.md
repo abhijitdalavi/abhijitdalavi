@@ -2,7 +2,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijitdalavi" alt="blurred-machine" /> </p>
 
 [![Github](https://img.shields.io/github/followers/abhijitdalavi?label=Follow&style=social)](https://github.com/abhijitdalavi)
-[Click to Chat](https://wa.link/in1rm4)
 <br>
 <a href="https://www.linkedin.com/in/abhijitdalavi/">
 <img align="left" alt="Abhijit Dalavi | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
@@ -16,9 +15,7 @@
 <a href="mailto:abhijitdalavi@gmail.com">
 <img align="left" alt="Abhijit Dalavi | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
 </a>
-<a href="https://wa.link/in1rm4">
-<img align="left" alt="Abhijit Dalavi | Gmail" width="26px" src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/whatsapp.svg" />
-</a>
+
 </br>
 
 ## About me
